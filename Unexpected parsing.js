@@ -3,4 +3,3 @@ function getStatus(isBusy) {
       status: isBusy ? "busy" : "available"
     }
   }
-  
