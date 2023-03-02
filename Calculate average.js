@@ -8,5 +8,4 @@ function findAverage(array) {
     if (array === []) {
       return 0;
     } else return average;
-  }  
-  
+  }
