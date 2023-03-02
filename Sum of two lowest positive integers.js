@@ -3,4 +3,5 @@ function sumTwoSmallestNumbers(numbers) {
     numbers.splice(numbers.indexOf(first), 1)
     let second = Math.min(...numbers)
     return first + second
-  }
+  } 
+  
