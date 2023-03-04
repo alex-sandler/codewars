@@ -3,5 +3,3 @@ var countSheep = function (num){
     for(let i = 1; i <= num; i++) { str+= `${i} sheep...`; }
     return str;
   }
-
-  
