@@ -11,5 +11,3 @@ function isOdd(num) {
   }
   console.log(getMiddle(`the`));
   console.log(getMiddle(`root`));
-
-  
