@@ -3,5 +3,3 @@ function solution(str, ending){
   }
   
   console.log(solution("longword", "word"));
-
-  
