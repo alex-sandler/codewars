@@ -3,5 +3,3 @@ function simpleMultiplication(number) {
     let even = number * 9
       return (number % 2 === 0 ? odd : even);
   }
-
-  
