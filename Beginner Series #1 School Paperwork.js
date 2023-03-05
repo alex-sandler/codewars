@@ -4,6 +4,4 @@ function paperwork(n, m) {
     } else {
       return n*m
     }
-  }
-
-  
+  } 
