@@ -15,5 +15,3 @@ function longestConsec(strarr, k) {
           return a.length > b.length ? a : a.length == b.length ? a : b;
       });
   }
-
-  
