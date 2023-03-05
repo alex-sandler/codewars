@@ -4,5 +4,3 @@ function invert(array) {
       });
     return res;
  }
-
- 
