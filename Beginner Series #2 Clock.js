@@ -5,5 +5,3 @@ function past(h, m, s){
     const convertSeconds = s * 1000;
     return convertHours + convertMinutes + convertSeconds;
       }
-
-      
