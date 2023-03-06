@@ -3,5 +3,3 @@ function duplicateEncode(word) {
       return (arr.filter((item) => item === _char).length - 1) ? ')' : '(';
     }).join('');
   }
-
-  
