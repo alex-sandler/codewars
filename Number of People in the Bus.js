@@ -5,5 +5,3 @@ var number = (busStops) => {
     }
     return people;
   };
-
-  
