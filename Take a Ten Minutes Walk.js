@@ -9,5 +9,3 @@ function isValidWalk(walk) {
   
       return walk.length == 10 && ns === 0 && we === 0; 
   }
-
-  
