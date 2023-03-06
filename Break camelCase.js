@@ -10,6 +10,3 @@ function solution(string) {
   
   console.log(solution('camelCasing'));//success = "camel Casing"
   console.log(solution('camelCasingTest'));
-  
-
-  
