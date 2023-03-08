@@ -3,5 +3,3 @@ class Cat extends Animal {
       return this.name + ' meows.';
     }
   }
-
-  
