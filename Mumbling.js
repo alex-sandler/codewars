@@ -12,3 +12,5 @@ function accum(s) {
     return result.join('-')
     // your code
   }
+
+  
