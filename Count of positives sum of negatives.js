@@ -8,3 +8,4 @@ function countPositivesSumNegatives(input) {
     }
     return [positiveNums , negativeNums];
 }
+
